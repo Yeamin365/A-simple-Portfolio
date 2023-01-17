@@ -143,13 +143,18 @@ section{
 /*resume styles*/
 .resume-content{
     display: flex;
-    gap: 24px;}
+    gap: 24px;
+}
+
+
+
+
     .resume-item{
         margin-top: 30px;
         margin-bottom: 30px;
     
     }
-}
+
 .resume .title{
     font-weight: 700;
     font-size: 25px;
